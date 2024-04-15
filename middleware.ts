@@ -7,5 +7,5 @@ export async function middleware(req: NextRequest) {
 }
 
 export const config = {
-  matcher: "/job*",
+  matcher: ["/jobs", "/job/:path*"],
 };
