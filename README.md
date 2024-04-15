@@ -1,13 +1,14 @@
 # Desafio Técnico - Full Stack Junior
 
-## Objetivos do desafio
+## Informações
 
 Este desafio irá verificar se o candidato possuí as seguintes habilidades em um nível básico:
 
-- Noções de Nextjs
-- Noções de Tailwind
-- Noções de Backend
-- Git e Github
+- Nome: Lucas Vieira
+- Linkedin: [beterraba](https://linkedin.com/in/beterraba)
+- Github: [beterrabaA](https://github.com/beterrabaa)
+- Telefone: 88994844620
+- Email: ls6182315@gmail.com
 
 ## O que deverá ser desenvolvido
 
